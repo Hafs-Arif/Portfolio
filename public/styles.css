@@ -11,9 +11,13 @@ main {
 }
 
 #header {
+  position: relative;
   background-color: #ffffff;
   padding-top: 15px;
   height: 90px;
+  top: 10px;
+  margin: 0 10px 0 10px;
+  border-radius: 15px;
 }
 
 #footer{
